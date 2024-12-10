@@ -60,3 +60,5 @@ pip install pandas numpy matplotlib scikit-learn nltk
 - `Matplotlib`: Data visualization library
 - `scikit-learn`: Machine learning library
 - `NLTK`: Natural Language Toolkit
+
+Dhruv Sarpal
